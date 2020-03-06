@@ -1,3 +1,4 @@
+# Тест-кейс, стоимость билета, регистрация, ожидаемый результат
 "registered user, bonus under limit",100060,true,30
 "registered user, bonus over limit",100000060,true,500
 "unregistered user, bonus under limit",100060,false,10
